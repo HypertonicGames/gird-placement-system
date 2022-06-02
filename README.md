@@ -1,4 +1,4 @@
-# gird-placement-system
+# grid-placement-system
 This is a public repo to report bugs and request features for the Grid Placement System.
 
 The Grid Placement System is a Unity asset available here: https://u3d.as/2NVv
